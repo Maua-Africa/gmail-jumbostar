@@ -1,0 +1,33 @@
+
+#tab2-tab{
+    border-top: none;
+    /* color: gray; */
+    border-left: none;
+    border-right: none;
+}
+#tab1-tab{
+    border-top: none;
+    /* color: bl; */
+    border-left: none;
+    border-right: none;
+}
+#tab3-tab{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    /* color: gray; */
+}
+#tab2-tab.active{
+    border-bottom: 2px solid blue;
+    color: blue;
+}
+#tab1-tab.active{
+    border-bottom: 2px solid blue;
+    color: blue;
+}
+
+#tab3-tab.active{
+    border-bottom: 2px solid blue;
+    color: blue;
+}
+
